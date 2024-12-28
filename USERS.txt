@@ -1,0 +1,6 @@
+Name: Khushal sharma, Age: 14, Waist: 100, Family: H , Gender : MALE
+Name: Mandak, Age: 65, Waist: 92, Family: M , Gender : MALE
+Name: Ramesh, Age: 77, Waist: 38, Family: N , Gender : MALE
+Name: Khushal Sharma, Age: 14, Waist: 110, Family: H , Gender : MALE
+Name: anu, Age: 39, Waist: 90, Family: M , Gender : FEMALE
+Name: Khushal Sharma, Age: 13, Waist: 110, Family: H , Gender : MALE
